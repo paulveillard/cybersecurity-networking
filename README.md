@@ -4,6 +4,13 @@
 
 ## Table of Contents
 - [Network Foundations](#network-foundations)
+  - [TCP/IP Protocols](#tcpip-protocols)
+  - [Courses](#courses)
+  - [Tutorials](#tutorials)
+  - [Books](#books)
+  - [Software](#software)
+  - [Certifications](#certifications)
+  - [Miscellaneous](#miscellaneous)
 - [Network Design Resources](#network-design-resources)
 - [Network Implementation](#network-implementation)
   - [Routing](#routing)
@@ -23,6 +30,7 @@
   - [DevNet Knowledgebase](#devnet-knowledgebase)
   - [DevNet Inventory](#devnet-inventory)
   - [Knowledge Resources](#knowledge-resources)
+- [License](#license)
 
 
 ## Network Foundations
@@ -255,17 +263,6 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 
 
 
-
-
-
-- [TCP/IP Protocols](#tcpip-protocols)
-- [Courses](#courses)
-- [Tutorials](#tutorials)
-- [Books](#books)
-- [Software](#software)
-- [Certifications](#certifications)
-- [Miscellaneous](#miscellaneous)
-- [License](#license)
 
 
 
