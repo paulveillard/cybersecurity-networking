@@ -24,6 +24,9 @@
   - [DevNet Inventory](#devnet-inventory)
   - [Knowledge Resources](#knowledge-resources)
 
+
+## Network Foundations
+
 ## Network Design Resources
 - [Cisco Design Zone](https://www.cisco.com/c/en/us/solutions/design-zone.html#~stickynav=1)
 - [Cumulus Networks Validated Design Guides](https://cumulusnetworks.com/learn/web-scale-networking-resources/?validated-design-guides) 
