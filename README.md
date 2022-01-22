@@ -37,6 +37,8 @@ An ongoing curated collection of awesome software, libraries, frameworks, talks 
 
 ## Network Foundations
 
+![network](https://github.com/paulveillard/cybersecurity-networking/blob/main/img/network.png)
+
 ## TCP/IP Protocols
 
 **Note**: Links without description are official RFCs from the Internet Engineering Task Force (IETF).
