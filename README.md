@@ -64,7 +64,7 @@ An ongoing curated collection of awesome software, libraries, frameworks, talks 
 
 - FTP
   - [FILE TRANSFER PROTOCOL (FTP)](https://www.ietf.org/rfc/rfc959.txt)
-[ftp](https://github.com/paulveillard/cybersecurity-networking/blob/main/img/ftp.png)
+![ftp](https://github.com/paulveillard/cybersecurity-networking/blob/main/img/ftp.png)
 
 - HTTP
   - [Hypertext Transfer Protocol -- HTTP/1.1](https://www.ietf.org/rfc/rfc2616.txt)
