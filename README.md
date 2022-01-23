@@ -55,8 +55,12 @@ An ongoing curated collection of awesome software, libraries, frameworks, talks 
   
 - DHCP
   - [DYNAMIC HOST CONFIGURATION PROTOCOL](https://www.ietf.org/rfc/rfc2131.txt)
+  
+![dhcp](https://github.com/paulveillard/cybersecurity-networking/blob/main/img/dhcp.png)
 
+**Dynamic Host Configuration Protocol, or DHCP,** is used to provide quick and centralized management of IP addresses and other TCP/IP settings on your network. These are things like host IP address, subnet mask, DNS settings, default gateway address, and so on (I call these “IP configuration settings”). When you power on your computer, a DHCP server likely provides these IP configuration settings to you. Even if you don’t have a stand-alone DHCP server, your default gateway likely has its own DHCP server feature.
 
+**DHCP really makes network management a lot easier. DHCP eliminates the need for manually assigning IP addresses to our devices. DHCP port number for server is 67 and for the client is 68. It is a Client server protocol which uses UDP services**
 
 - FTP
   - [FILE TRANSFER PROTOCOL (FTP)](https://www.ietf.org/rfc/rfc959.txt)
