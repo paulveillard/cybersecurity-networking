@@ -1,0 +1,11 @@
+{
+  "name": "restToSerial",
+  "version": "0.6.0",
+  "author": {
+  	"name":"Tom Igoe"
+   },
+  "dependencies": {
+    "serialport": "1.4.x",
+    "servi": ">=0.0.8"
+  }
+}

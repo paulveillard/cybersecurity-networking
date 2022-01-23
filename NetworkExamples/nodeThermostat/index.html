@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<link rel="stylesheet" href="/css/style.css" type="text/css">
+		<script src="/socket.io/socket.io.js"></script>
+		<script type="text/javascript" src="/js/thermostat.js"></script>
+	</head>
+	<body onload="bindEvents()">
+		<div id="controls">
+			Desired temperature:
+			<input type=range id="setPoint" min=10.0 max=30.0 step=0.1>
+			<span id="setPointVal"></span><br>
+			
+			Current temperature:
+			<meter id="temperature" min=0 max=50 value=15.0 style="width:130px;"></meter>
+			<span id="tempVal"></span>
+		</div>
+		
+		System status: <span id="state"></span>
+		<div id="textDisplay"></div>
+	</body>
+</html>
