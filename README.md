@@ -4,7 +4,7 @@ An ongoing curated collection of awesome software, libraries, frameworks, talks 
 
 
 
-## Table of Contents
+## `Table of Contents`
 - [Network Foundations](#network-foundations)
   - [TCP/IP Protocols](#tcpip-protocols)
   - [Courses](#courses)
@@ -35,13 +35,13 @@ An ongoing curated collection of awesome software, libraries, frameworks, talks 
 - [License](#license)
 
 
-## Network Foundations
+## `Network Foundations`
 
 -  [Computer networking](https://www.cisco.com/c/en/us/solutions/enterprise-networks/what-is-computer-networking.html) refers to connected **computing devices** (such as laptops, desktops, servers, smartphones, and tablets) and an ever-expanding array of **IoT devices** (such as cameras, door locks, doorbells, refrigerators, audio/visual systems, thermostats, and various sensors) that communicate with one another.
 
 ![network](https://github.com/paulveillard/cybersecurity-networking/blob/main/img/network.png)
 
-## TCP/IP Protocols
+## `TCP/IP Protocols`
 
 **Note**: Links without description are official RFCs from the Internet Engineering Task Force (IETF).
 
